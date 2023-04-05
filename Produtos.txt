@@ -1,0 +1,7 @@
+1 Pão 0.22 250 Alimentar 40 35 PagueMenos
+2 Detergente 178 3 Limpeza 3 PagueMenos
+3 Carne 8.67 70 Alimentar 34 60 Nenhum
+4 Peixe 6.39 79 Alimentar 46 27 LeveMais
+5 Armário 99 789 Mobiliário 40 120x40x80 Nenhum
+6 Sabão 1 125 Limpeza 6 PagueMenos
+7 Mesa 50 256 Mobiliário 10 30x30x10 LeveMais
